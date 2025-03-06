@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho na TI da Coamo Agroindústrial Cooperativa
 - 🌱 Estou cursando a faculdade de Análise e desenv. de Sistemas
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/adrianhenrique17">
